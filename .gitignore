@@ -1,0 +1,6 @@
+.devcontainer
+.vscode
+build
+managed_components
+esp-idf-lib
+NeoMIDI.code-workspace
